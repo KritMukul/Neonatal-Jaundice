@@ -1,0 +1,63 @@
+# Folders from original .gitignore
+NeoJaundice/
+venv/
+models/
+preprocessed_data/
+.claude/
+
+# Project Specific Output and Data
+graphify-out/
+.graphify*
+results/
+temp/
+myenv/
+processed_data.csv
+
+# Backup / Unnecessary Code Directories
+coding/
+
+# Large Data & Model Checkpoints
+*.pth
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.h5
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo

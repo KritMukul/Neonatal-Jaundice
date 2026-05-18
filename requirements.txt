@@ -1,0 +1,23 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+
+# Image processing
+opencv-python
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Gradient boosting
+xgboost
+
+# Deep learning (Vision Transformers / Swin Transformer)
+torch
+torchvision
+timm
+
+# Progress bar (used in ViT/SwinTransformer)
+tqdm
